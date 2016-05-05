@@ -1,5 +1,0 @@
---
---
-# Omnisterix
-
-Visibility. Insight. Understanding.
